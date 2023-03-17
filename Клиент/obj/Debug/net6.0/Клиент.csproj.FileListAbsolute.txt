@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Source\Repos\Papirosa225\KPO\Клиент\bin\Debug\net6.0\Клиент.exe
+C:\Users\Дмитрий\Source\Repos\Papirosa225\KPO\Клиент\bin\Debug\net6.0\Клиент.deps.json
+C:\Users\Дмитрий\Source\Repos\Papirosa225\KPO\Клиент\bin\Debug\net6.0\Клиент.runtimeconfig.json
+C:\Users\Дмитрий\Source\Repos\Papirosa225\KPO\Клиент\bin\Debug\net6.0\Клиент.dll
+C:\Users\Дмитрий\Source\Repos\Papirosa225\KPO\Клиент\bin\Debug\net6.0\Клиент.pdb
+C:\Users\Дмитрий\Source\Repos\Papirosa225\KPO\Клиент\obj\Debug\net6.0\Клиент.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Source\Repos\Papirosa225\KPO\Клиент\obj\Debug\net6.0\Клиент.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Source\Repos\Papirosa225\KPO\Клиент\obj\Debug\net6.0\Клиент.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Source\Repos\Papirosa225\KPO\Клиент\obj\Debug\net6.0\Клиент.AssemblyInfo.cs
+C:\Users\Дмитрий\Source\Repos\Papirosa225\KPO\Клиент\obj\Debug\net6.0\Клиент.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Source\Repos\Papirosa225\KPO\Клиент\obj\Debug\net6.0\Клиент.dll
+C:\Users\Дмитрий\Source\Repos\Papirosa225\KPO\Клиент\obj\Debug\net6.0\refint\Клиент.dll
+C:\Users\Дмитрий\Source\Repos\Papirosa225\KPO\Клиент\obj\Debug\net6.0\Клиент.pdb
+C:\Users\Дмитрий\Source\Repos\Papirosa225\KPO\Клиент\obj\Debug\net6.0\Клиент.genruntimeconfig.cache
+C:\Users\Дмитрий\Source\Repos\Papirosa225\KPO\Клиент\obj\Debug\net6.0\ref\Клиент.dll
